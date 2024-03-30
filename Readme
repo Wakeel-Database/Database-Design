@@ -1,10 +1,6 @@
 # DATABASE-DESIGN-MODELLING
+
 Database Modelling is the process of creating a logical and structural representation of a database system.
-
-<img width="541" alt="image" src="https://github.com/MukaramDba/DATABASE-DESIGN-MODELLING/assets/100750844/18d64a55-8571-498d-863f-34cb980da9bd">
-
-
-Database Design for Book Review website
 
 
 First step: Write down the purpose of the database and what is it for?
@@ -28,6 +24,5 @@ Third Step : Add the columns to each of these tables, using the attributes of ea
 
 Fourth steps : Add referential integrity”, or by add primary keys to each table and foreign keys to tables.
 
-Then you have this 
 
-![Database Modelling](https://github.com/MukaramDba/DATABASE-DESIGN-MODELLING/assets/100750844/82c89d9d-5ef6-451a-947c-fad6a36a7f14)
+
